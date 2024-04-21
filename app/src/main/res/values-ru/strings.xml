@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Рабочий стол</string>
+  <string name="main_prompt_no_missed">Нет пропущенных звонков.</string>
+  <string name="main_prompt_missed">Пропущенные звонки xxyy.</string>
+  <string name="main_prompt_no_msg">Нет непрочитаных сообщений.</string>
+  <string name="main_prompt_msg">Непрочитанное сообщение xxyy.</string>
+  <string name="main_prompt_no_sms">Нет непрочитанных SMS.</string>
+  <string name="main_prompt_sms">Непрочитанное СМС xxyy.</string>
+  <string name="main_quick_elev">Лифт</string>
+  <string name="main_quick_monitor">Открыть</string>
+  <string name="main_quick_out">Ушел</string>
+  <string name="main_quick_apps">Программы</string>
+  <string name="main_quick_mute">Обычный</string>
+  <string name="main_quick_mute2">Без звука</string>
+  <string name="main_security_off">Сигнализация (ВЫКЛ.)</string>
+  <string name="main_security_out">Сигнализация (УШЕЛ)</string>
+  <string name="main_security_home">Сигнализация (ДОМА)</string>
+  <string name="main_security_sleep">Сигнализация (СПЛЮ)</string>
+  <string name="main_weather_temp">"ТЕМП:"</string>
+  <string name="main_weather_humidity">"ОВ:"</string>
+  <string name="main_weather_quality">"Качественный: "</string>
+  <string name="main_weather_pm25">"PM2.5:"</string>
+  <string name="main_apps_select_ok">"ХОРОШО"</string>
+  <string name="main_apps_select_default">"Очистить"</string>
+  <string name="main_apps_select_prompt">"Пожалуйста, выберите apk."</string>
+
+  <string name="defence_btn_home">Дом</string>
+  <string name="defence_btn_out">Ушел</string>
+  <string name="defence_btn_sleep">Спящий режим</string>
+  <string name="defence_btn_withdraw">ВЫКЛ.</string>
+  <!-- dialog text -->
+  <string name="dialog_title_user">Пользователь</string>
+  <string name="dialog_title_system">Система</string>
+  <string name="dialog_title_search">Поиск диалога</string>
+  <string name="dialog_title_delete">Удалить диалог</string>
+  <string name="dialog_msg_delete">Вы уверены, что хотите удалить этот контакт?  Это действие не может быть отменено.</string>
+  <string name="dialog_msg_delete_multi">Вы уверены, что хотите удалить эти контакты?  Это действие не может быть отменено.</string>
+  <string name="dialog_title_save">Сохранить диалог</string>
+  <string name="dialog_msg_save">Вы уверены, что хотите сохранить этот контакт?</string>
+  <string name="dialog_title_first_set">Сохранить диалог</string>
+  <string name="dialog_msg_first_set">Вы уверены, что хотите отправить эти конфигурации?</string>
+  <string name="dialog_search">Поиск</string>
+  <string name="dialog_confirm">Подтвердить</string>
+  <string name="dialog_cancel">Отмена</string>
+  <string name="dialog_dtmf_input">"Диалог ввода DTMF"</string>
+  <string name="dialog_ok">ХОРОШО</string>
+  <string name="dialog_alert">Тревога</string>
+  <string name="login_passwd_prompt">Пароль</string>
+  <string name="prompt_invalid_call_info">Нет достоверной информации о звонке</string>
+
+<!--  <string name="str_week_sun">Солнце.</string>-->
+<!--  <string name="str_week_mon">Пн.</string>-->
+<!--  <string name="str_week_tues">Вт.</string>-->
+<!--  <string name="str_week_wed">Мы б.</string>-->
+<!--  <string name="str_week_thur">Чт.</string>-->
+<!--  <string name="str_week_fri">Пт.</string>-->
+<!--  <string name="str_week_sat">Суббота.</string>-->
+  <string name="str_week_sun">ВС</string>
+  <string name="str_week_mon">ПН</string>
+  <string name="str_week_tues">ВТ</string>
+  <string name="str_week_wed">СР</string>
+  <string name="str_week_thur">ЧТ</string>
+  <string name="str_week_fri">ПТ</string>
+  <string name="str_week_sat">СБ</string>
+
+  <string name="str_am">AM</string>
+  <string name="str_pm">PM</string>
+  <string name="phonebook_title">Контакты</string>
+  <string name="lift_ctrl_permit">Разрешать</string>
+  <string name="prompt_calling_concierge">Вызов консьержа 01</string>
+  <string name="app_call">Вызов</string>
+  <string name="app_monitor">Монитор</string>
+  <string name="app_camera">Камера</string>
+  <string name="app_quad_splitter">Мультиэкран</string>
+  <string name="app_phonebook">Контакты</string>
+  <string name="app_message">Сообщение</string>
+  <string name="app_dnd">Не беспокоить</string>
+  <string name="app_qr_code">QR код</string>
+  <string name="app_security">Сигнализация</string>
+  <string name="app_concierge">Консьерж</string>
+  <string name="app_lift_ctrl">Лифт</string>
+  <string name="app_sos">SOS</string>
+  <string name="app_setting">Настройки</string>
+  <string name="app_home_screen">Домашний экран</string>
+  <string name="get_qr_err">Не удалось получить QR-код!</string>
+</resources>

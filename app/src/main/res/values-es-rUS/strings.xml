@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Escritorio</string>
+	<string name="main_prompt_no_missed">Sin llamadas perdidas.</string>
+	<string name="main_prompt_missed">Llamadas perdidas xxyy.</string>
+	<string name="main_prompt_no_msg">No hay MSJ sin leer.</string>
+	<string name="main_prompt_msg">MSJ sin leer xxyy.</string>
+	<string name="main_prompt_no_sms">No hay SMS sin leer.</string>
+	<string name="main_prompt_sms">SMS sin leer xxyy.</string>
+	<string name="main_quick_elev">Ascensor</string>
+	<string name="main_quick_monitor">Destrabe</string>
+	<string name="main_quick_out">Salida</string>
+	<string name="main_quick_apps">Aplicaciones</string>
+	<string name="main_quick_mute">Normal</string>
+	<string name="main_quick_mute2">Mudo</string>
+	<string name="main_security_off">Seguridad desactivada</string>
+	<string name="main_security_out">Seguridad Total</string>
+	<string name="main_security_home">Seguridad en Casa</string>
+	<string name="main_security_sleep">Seguridad de Noche</string>
+	<string name="main_weather_temp">"TEMP: "</string>
+	<string name="main_weather_humidity">"RH: "</string>
+	<string name="main_weather_quality">"Calidad: "</string>
+	<string name="main_weather_pm25">"PM2.5: "</string>
+	<string name="main_apps_select_ok">"OK"</string>
+	<string name="main_apps_select_default">"Borrar"</string>
+	<string name="main_apps_select_prompt">"Favor seleccione un apk."</string>
+</resources>
+

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">masaüstü</string>
+    <string name="main_prompt_no_missed">Cevapsız arama yok</string>
+    <string name="main_prompt_missed">Cevapsız Aramalar xxyy</string>
+    <string name="main_prompt_no_msg">Okunmamış Mesaj yok</string>
+    <string name="main_prompt_msg">Okunmamış Mesaj xxyy</string>
+    <string name="main_prompt_no_sms">Okunmamış SMS yok</string>
+    <string name="main_prompt_sms">Okunmamış SMS xxyy</string>
+
+    <string name="main_quick_elev">Asansör</string>
+    <string name="main_quick_monitor">Kilit açık</string>
+    <string name="main_quick_out">Dışarı</string>
+    <string name="main_quick_apps">Uygulamalar</string>
+    <string name="main_quick_mute">Normal</string>
+    <string name="main_quick_mute2">Mute</string>
+
+    <string name="main_security_off">Güvenlik Kapalı</string>
+    <string name="main_security_out">Security OUT</string>
+    <string name="main_security_home">Güvenlik EV</string>
+    <string name="main_security_sleep">Güvenlik UYKU</string>
+
+    <string name="main_weather_temp">"ISI: "</string>
+    <string name="main_weather_humidity">"RH: "</string>
+    <string name="main_weather_quality">"Kalite: "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+
+    <string name="main_apps_select_ok">"TAMAM"</string>
+    <string name="main_apps_select_default">"Silindi"</string>
+    <string name="main_apps_select_prompt">"Bir uygulama seçin."</string>
+
+    <string name="defence_btn_home">Ev</string>
+    <string name="defence_btn_out">Dışarı</string>
+    <string name="defence_btn_sleep">Uyku</string>
+    <string name="defence_btn_withdraw">KAPALI</string>
+    <!-- dialog text -->
+    <string name="dialog_title_user">Kullanýcý</string>
+    <string name="dialog_title_system">sistem</string>
+    <string name="dialog_title_search">Arama İletişim Kutusu</string>
+    <string name="dialog_title_delete">İletişim Kutusunu Sil</string>
+    <string name="dialog_msg_delete">Bu kişiyi silmek istediğinizden emin misiniz?  Bu işlem geri alınamaz.</string>
+    <string name="dialog_msg_delete_multi">Bu kişileri silmek istediğinizden emin misiniz?  Bu işlem geri alınamaz.</string>
+    <string name="dialog_title_save">İletişim Kutusunu Kaydet</string>
+    <string name="dialog_msg_save">Bu kişiyi kaydetmek istediğinizden emin misiniz?</string>
+    <string name="dialog_title_first_set">İletişim Kutusunu Kaydet</string>
+    <string name="dialog_msg_first_set">Bu yapılandırmaları göndereceğinizden emin misiniz?</string>
+    <string name="dialog_search">Aramak</string>
+    <string name="dialog_confirm">Onaylamak</string>
+    <string name="dialog_cancel">İptal etmek</string>
+    <string name="dialog_dtmf_input">"DTMF giriş İletişim Kutusu"</string>
+    <string name="dialog_ok">TAMAM</string>
+    <string name="dialog_alert">Uyarmak</string>
+    <string name="login_passwd_prompt">Parola</string>
+    <string name="prompt_invalid_call_info">Geçerli arama bilgisi yok</string>
+
+<!--    <string name="str_week_sun">Güneş.</string>-->
+<!--    <string name="str_week_mon">Pzt.</string>-->
+<!--    <string name="str_week_tues">Salı.</string>-->
+<!--    <string name="str_week_wed">Evlenmek.</string>-->
+<!--    <string name="str_week_thur">Per.</string>-->
+<!--    <string name="str_week_fri">Cuma.</string>-->
+<!--    <string name="str_week_sat">Doygunluk.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">AM</string>
+    <string name="str_pm">PM</string>
+    <string name="phonebook_title">Kişiler</string>
+    <string name="lift_ctrl_permit">İzin vermek</string>
+    <string name="prompt_calling_concierge">"Kapıcı 01'i Aramak"</string>
+    <string name="app_call">Çağrı</string>
+    <string name="app_monitor">monitör</string>
+    <string name="app_camera">Kamera</string>
+    <string name="app_quad_splitter">Dörtlü Bölücü</string>
+    <string name="app_phonebook">Kişiler</string>
+    <string name="app_message">İleti</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">QR kod</string>
+    <string name="app_security">Güvenlik</string>
+    <string name="app_concierge">Kapıcı</string>
+    <string name="app_lift_ctrl">Asansör</string>
+    <string name="app_sos">s.o.s.</string>
+    <string name="app_setting">Ayarlar</string>
+    <string name="app_home_screen">Ana ekran</string>
+</resources>

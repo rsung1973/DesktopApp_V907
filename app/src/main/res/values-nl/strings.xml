@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bureaublad</string>
+    <string name="main_prompt_no_missed">Geen gemiste oproepen.</string>
+    <string name="main_prompt_missed">Gemiste oproepen xxyy.</string>
+    <string name="main_prompt_no_msg">Geen ongelezen berichten</string>
+    <string name="main_prompt_msg">Ongelezen MSG xxyy.</string>
+    <string name="main_prompt_no_sms">Geen ongelezen sms.</string>
+    <string name="main_prompt_sms">Ongelezen sms xxyy.</string>
+    <string name="main_quick_elev">Lift</string>
+    <string name="main_quick_monitor">Ontgrendelen</string>
+    <string name="main_quick_out">Uit</string>
+    <string name="main_quick_apps">Apps</string>
+    <string name="main_quick_mute">normaal</string>
+    <string name="main_quick_mute2">Stom</string>
+    <string name="main_security_off">Beveiliging UIT</string>
+    <string name="main_security_out">Beveiliging UIT</string>
+    <string name="main_security_home">Beveiliging HOME</string>
+    <string name="main_security_sleep">Beveiliging SLAAP</string>
+    <string name="main_weather_temp">"TEMP: "</string>
+    <string name="main_weather_humidity">"RH: "</string>
+    <string name="main_weather_quality">"Kwaliteit: "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+    <string name="main_apps_select_ok">"OKE"</string>
+    <string name="main_apps_select_default">"Duidelijk"</string>
+    <string name="main_apps_select_prompt">"Selecteer een APK."</string>
+
+    <!-- Desktop MAIN -->
+    <string name="defence_btn_home">Home</string>
+    <string name="defence_btn_out">Uit</string>
+    <string name="defence_btn_sleep">Slaapmodus</string>
+    <string name="defence_btn_withdraw">Uit</string>
+
+    <!-- dialog text -->
+    <string name="dialog_title_user">Gebruiker</string>
+    <string name="dialog_title_system">Systeem</string>
+    <string name="dialog_title_search">Zoekvenster</string>
+    <string name="dialog_title_delete">Wis venster</string>
+    <string name="dialog_msg_delete">Wil je dit contact wilt verwijderen? Het kan niet ongedaan worden gemaakt.</string>
+    <string name="dialog_msg_delete_multi">Wil je deze contacten wilt verwijderen? Het kan niet ongedaan worden gemaakt.</string>
+    <string name="dialog_title_save">Venster opslaan</string>
+    <string name="dialog_msg_save">Wil je dit contact opslaan?</string>
+    <string name="dialog_title_first_set">Dialoog opslaan</string>
+    <string name="dialog_msg_first_set">Wil je deze configuratie doorvoeren?</string>
+    <string name="dialog_search">Zoeken</string>
+    <string name="dialog_confirm">Bevestigen</string>
+    <string name="dialog_cancel">Annuleren</string>
+    <string name="dialog_dtmf_input">"DTMF invoerveld"</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_alert">Waarschuwing</string>
+    <string name="login_passwd_prompt">Wachtwoord</string>
+
+    <string name="prompt_invalid_call_info">Geen geldige oproep info</string>
+
+<!--    <string name="str_week_sun">Zon.</string>-->
+<!--    <string name="str_week_mon">Mon.</string>-->
+<!--    <string name="str_week_tues">Din.</string>-->
+<!--    <string name="str_week_wed">Woe.</string>-->
+<!--    <string name="str_week_thur">Don.</string>-->
+<!--    <string name="str_week_fri">Vrij.</string>-->
+<!--    <string name="str_week_sat">Zat.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Don.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Zat.</string>
+
+
+    <string name="str_am">AM</string>
+    <string name="str_pm">PM</string>
+
+    <string name="phonebook_title">Telefoonboek</string>
+
+    <string name="lift_ctrl_permit">Toestaan</string>
+
+    <string name="prompt_calling_concierge">Bel Concierge 01</string>
+
+    <string name="app_call">Oproep</string>
+    <string name="app_monitor">Monitor</string>
+    <string name="app_camera">Camera</string>
+    <string name="app_quad_splitter">Quad Splitten</string>
+    <string name="app_phonebook">Telefoonboek</string>
+    <string name="app_message">Bericht</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">QR Code</string>
+    <string name="app_security">Beveiliging</string>
+    <string name="app_concierge">Beheerder</string>
+    <string name="app_lift_ctrl">Lift Bediening</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">Instellingen</string>
+    <string name="app_home_screen">Basisscherm</string>
+
+    <string name="get_qr_err">Opvragen QR code is mislukt!</string>
+</resources>

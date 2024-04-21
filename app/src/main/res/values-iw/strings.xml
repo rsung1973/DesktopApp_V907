@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">שולחן עבודה</string>
+    <string name="main_prompt_no_missed">אין שיחות שלא נענו.</string>
+    <string name="main_prompt_missed"> xxyyשיחות שלא נענו:</string>
+    <string name="main_prompt_no_msg">אין הודעות שלא נראו.</string>
+    <string name="main_prompt_msg"> שלא נקראהxxyy שיחת </string>
+    <string name="main_prompt_no_sms">אין סמסים שלא נקראו.</string>
+    <string name="main_prompt_sms"> שלא נקראxxyy סמס</string>
+
+    <string name="main_quick_elev">מעלית</string>
+    <string name="main_quick_monitor">בטל נעילה</string>
+    <string name="main_quick_out">החוצה</string>
+    <string name="main_quick_apps">יישומים</string>
+    <string name="main_quick_mute">נורמלי</string>
+    <string name="main_quick_mute2">השתק</string>
+
+    <string name="main_security_off">ביטחון כבוי</string>
+    <string name="main_security_out">אין ביטחון</string>
+    <string name="main_security_home">ביטחון הבית</string>
+    <string name="main_security_sleep">ביטחון שינה</string>
+
+    <string name="main_weather_temp">":טמפרטורה"</string>
+    <string name="main_weather_humidity">"RH: "</string>
+    <string name="main_weather_quality">":איכות "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+
+    <string name="main_apps_select_ok">"אוקיי"</string>
+    <string name="main_apps_select_default">"נקה"</string>
+    <string name="main_apps_select_prompt">""אנא בחר ב - APK.</string>
+
+
+    <!-- Desktop MAIN -->
+    <string name="defence_btn_home">בית</string>
+    <string name="defence_btn_out">בחוץ</string>
+    <string name="defence_btn_sleep">שינה</string>
+    <string name="defence_btn_withdraw">כבוי</string>
+
+    <!-- dialog text -->
+    <string name="dialog_title_user">משתמש</string>
+    <string name="dialog_title_system">מערכת</string>
+    <string name="dialog_title_search">חפש דיאלוג</string>
+    <string name="dialog_title_delete">מחק דיאלוג</string>
+    <string name="dialog_msg_delete">האם אתה בטוח שברצונך למחוק איש קשר זה? פעולה זו אינה הפיכה.</string>
+    <string name="dialog_msg_delete_multi">האם אתה בטוח שברצונך למחוק אנשי קשר אלה? פעולה זו אינה הפיכה.</string>
+    <string name="dialog_title_save">שמור דיאלוג</string>
+    <string name="dialog_msg_save">האם אתה בטוח שברצונך לשמור איש קשר זה?</string>
+    <string name="dialog_title_first_set">שמור דיאלוג</string>
+    <string name="dialog_msg_first_set">האם אתה בטוח שרצונך לאשר הגדרות אלה?</string>
+    <string name="dialog_search">חיפוש</string>
+    <string name="dialog_confirm">אשר</string>
+    <string name="dialog_cancel">בטל</string>
+    <string name="dialog_dtmf_input">"DTMF input Dialog"</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_alert">התראה</string>
+    <string name="login_passwd_prompt">סיסמא</string>
+
+    <string name="prompt_invalid_call_info">אין מידע שיחה תקין</string>
+
+<!--    <string name="str_week_sun">ראשון.</string>-->
+<!--    <string name="str_week_mon">שני.</string>-->
+<!--    <string name="str_week_tues">שלישי.</string>-->
+<!--    <string name="str_week_wed">רביעי.</string>-->
+<!--    <string name="str_week_thur">חמישי.</string>-->
+<!--    <string name="str_week_fri">שישי.</string>-->
+<!--    <string name="str_week_sat">שבת.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">AM</string>
+    <string name="str_pm">PM</string>
+
+    <string name="phonebook_title">ספר טלפונים</string>
+
+    <string name="lift_ctrl_permit">הרשאה</string>
+
+    <string name="prompt_calling_concierge">מתקשר לשוער 01</string>
+
+    <string name="app_call">שיחות</string>
+    <string name="app_monitor">צג</string>
+    <string name="app_camera">מצלמה</string>
+    <string name="app_quad_splitter">Quad Splitter</string>
+    <string name="app_phonebook">ספר טלפונים</string>
+    <string name="app_message">הודעות</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">QR Code</string>
+    <string name="app_security">אבטחה</string>
+    <string name="app_concierge">שוער</string>
+    <string name="app_lift_ctrl">מעלית</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">הגדרות</string>
+    <string name="app_home_screen">דף הבית</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_main"
+    android:layout_width="540dp"
+    android:layout_height="360dp"
+    android:background="@drawable/shape_layout_24_white">
+
+    <ImageView
+        android:id="@+id/btn_close"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:padding="8dp"
+        android:src="@mipmap/ic_close" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="120dp"
+            android:layout_height="220dp"
+            android:background="@drawable/elev_sub_bkg"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingTop="96dp">
+
+            <com.dnake.widget.Button2
+                android:id="@+id/smart_elev1_up"
+                android:layout_width="60dp"
+                android:layout_height="48dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/elev_up_a" />
+
+            <com.dnake.widget.Button2
+                android:id="@+id/smart_elev1_down"
+                android:layout_width="60dp"
+                android:layout_height="48dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/elev_down_a" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/btn_permit"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_desc"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_layout_24_white_no_stroke"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="@string/lift_ctrl_permit"
+            android:textSize="24sp" />
+    </LinearLayout>
+</FrameLayout>

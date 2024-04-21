@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">desktop</string>
+    <string name="main_prompt_no_missed">Sem Ligações Perdidas.</string>
+    <string name="main_prompt_missed">Ligações Perdidas xxyy.</string>
+    <string name="main_prompt_no_msg">Sem MSG Não Lidas.</string>
+    <string name="main_prompt_msg">MSG Não Lidas xxyy.</string>
+    <string name="main_prompt_no_sms">Sem SMS Não Lidas.</string>
+    <string name="main_prompt_sms">SMS Não Lidas xxyy.</string>
+    <string name="main_quick_elev">Elevador</string>
+    <string name="main_quick_monitor">Portas</string>
+    <string name="main_quick_out">Sair</string>
+    <string name="main_quick_apps">Apps</string>
+    <string name="main_quick_mute">Normal</string>
+    <string name="main_quick_mute2">Mudo</string>
+    <string name="main_security_off">Deslig.</string>
+    <string name="main_security_out">Casa Vazia</string>
+    <string name="main_security_home">Em Casa</string>
+    <string name="main_security_sleep">Dormindo</string>
+    <string name="main_weather_temp">"Temp: "</string>
+    <string name="main_weather_humidity">"humid: "</string>
+    <string name="main_weather_quality">"Qualidade: "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+    <string name="main_apps_select_ok">"OK"</string>
+    <string name="main_apps_select_default">"Limpa"</string>
+    <string name="main_apps_select_prompt">"Por Favor Selecione APK."</string>
+
+    <string name="defence_btn_home">Casa</string>
+    <string name="defence_btn_out">Fora</string>
+    <string name="defence_btn_sleep">Dorme</string>
+    <string name="defence_btn_withdraw">FORA</string>
+    <!-- dialog text -->
+    <string name="dialog_title_user">Usuário</string>
+    <string name="dialog_title_system">Sistema</string>
+    <string name="dialog_title_search">Caixa de diálogo de pesquisa</string>
+    <string name="dialog_title_delete">Excluir caixa de diálogo</string>
+    <string name="dialog_msg_delete">Tem certeza de que deseja excluir este contato?  Essa ação não pode ser desfeita.</string>
+    <string name="dialog_msg_delete_multi">Tem certeza de que deseja excluir esses contatos?  Essa ação não pode ser desfeita.</string>
+    <string name="dialog_title_save">Caixa de diálogo Salvar</string>
+    <string name="dialog_msg_save">Tem certeza de que deseja salvar este contato?</string>
+    <string name="dialog_title_first_set">Caixa de diálogo Salvar</string>
+    <string name="dialog_msg_first_set">Tem certeza de enviar essas configurações?</string>
+    <string name="dialog_search">Procurar</string>
+    <string name="dialog_confirm">confirme</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_dtmf_input">"Diálogo de entrada DTMF"</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_alert">Alerta</string>
+    <string name="login_passwd_prompt">Senha</string>
+    <string name="prompt_invalid_call_info">Nenhuma informação de chamada válida</string>
+
+<!--    <string name="str_week_sun">Sol.</string>-->
+<!--    <string name="str_week_mon">Seg.</string>-->
+<!--    <string name="str_week_tues">Ter.</string>-->
+<!--    <string name="str_week_wed">Qua.</string>-->
+<!--    <string name="str_week_thur">Qui.</string>-->
+<!--    <string name="str_week_fri">Sex.</string>-->
+<!--    <string name="str_week_sat">Sentado.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">SOU</string>
+    <string name="str_pm">PM</string>
+    <string name="phonebook_title">Lista telefônica</string>
+    <string name="lift_ctrl_permit">Permitir</string>
+    <string name="prompt_calling_concierge">Ligando para o concierge 01</string>
+    <string name="app_call">Ligar</string>
+    <string name="app_monitor">Monitor</string>
+    <string name="app_camera">Câmera</string>
+    <string name="app_quad_splitter">Multitela</string>
+    <string name="app_phonebook">Lista telefônica</string>
+    <string name="app_message">Mensagem</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">Código QR</string>
+    <string name="app_security">Segurança</string>
+    <string name="app_concierge">Porteiro</string>
+    <string name="app_lift_ctrl">Elevador</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">Definições</string>
+    <string name="app_home_screen">Tela inicial</string>
+</resources>

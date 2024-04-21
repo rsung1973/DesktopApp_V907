@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Màn hình</string>
+    <string name="main_prompt_no_missed">Gọi nhỡ 0.</string>
+    <string name="main_prompt_missed">Gọi nhỡ xxyy.</string>
+    <string name="main_prompt_no_msg">Tin nhắn.</string>
+    <string name="main_prompt_msg">Tin nhắn xxyy.</string>
+    <string name="main_prompt_no_sms">Tin nhắn 0</string>
+    <string name="main_prompt_sms">Tín nhắn xxyy.</string>
+
+    <string name="main_quick_elev">Thang máy</string>
+    <string name="main_quick_monitor">Mở khóa</string>
+    <string name="main_quick_out">Đi vắng</string>
+    <string name="main_quick_apps">Apps</string>
+    <string name="main_quick_mute">Bình thường</string>
+    <string name="main_quick_mute2">Im lặng</string>
+
+    <string name="main_security_off">Tắt báo động</string>
+    <string name="main_security_out">Đi vắng</string>
+    <string name="main_security_home">Ở nhà</string>
+    <string name="main_security_sleep">Ngủ</string>
+
+    <string name="main_weather_temp">"Nhiệt độ:"</string>
+    <string name="main_weather_humidity">"Độ ẩm:"</string>
+    <string name="main_weather_quality">"Chất lượng:"</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+
+    <string name="main_apps_select_ok">"OK"</string>
+    <string name="main_apps_select_default">"Sạch"</string>
+    <string name="main_apps_select_prompt">"Thêm apk." </string>
+
+    <string name="defence_btn_home">Nhà</string>
+    <string name="defence_btn_out">Ngoài</string>
+    <string name="defence_btn_sleep">Ngủ</string>
+    <string name="defence_btn_withdraw">TẮT</string>
+    <!-- dialog text -->
+    <string name="dialog_title_user">User</string>
+    <string name="dialog_title_system">Hệ thống</string>
+    <string name="dialog_title_search">Hộp thoại Tìm kiếm</string>
+    <string name="dialog_title_delete">Xóa hộp thoại</string>
+    <string name="dialog_msg_delete">Bạn có chắc chắn muốn xóa liên hệ này không?  Hành động này không thể được hoàn tác.</string>
+    <string name="dialog_msg_delete_multi">Bạn có chắc chắn muốn xóa các liên hệ này không?  Hành động này không thể được hoàn tác.</string>
+    <string name="dialog_title_save">Lưu hộp thoại</string>
+    <string name="dialog_msg_save">Bạn có chắc chắn muốn lưu liên hệ này không?</string>
+    <string name="dialog_title_first_set">Lưu hộp thoại</string>
+    <string name="dialog_msg_first_set">Bạn có chắc chắn gửi các cấu hình này không?</string>
+    <string name="dialog_search">Tìm kiếm</string>
+    <string name="dialog_confirm">Xác nhận</string>
+    <string name="dialog_cancel">Hủy bỏ</string>
+    <string name="dialog_dtmf_input">"Hộp thoại đầu vào DTMF"</string>
+    <string name="dialog_ok">ĐƯỢC RỒI</string>
+    <string name="dialog_alert">Báo động</string>
+    <string name="login_passwd_prompt">Mật khẩu</string>
+    <string name="prompt_invalid_call_info">Không có thông tin cuộc gọi hợp lệ</string>
+
+<!--    <string name="str_week_sun">Mặt trời.</string>-->
+<!--    <string name="str_week_mon">Thứ hai.</string>-->
+<!--    <string name="str_week_tues">Thứ Ba</string>-->
+<!--    <string name="str_week_wed">Thứ Tư.</string>-->
+<!--    <string name="str_week_thur">Thur.</string>-->
+<!--    <string name="str_week_fri">T6</string>-->
+<!--    <string name="str_week_sat">Đã ngồi.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">sáng</string>
+    <string name="str_pm">BUỔI CHIỀU</string>
+    <string name="phonebook_title">Liên lạc</string>
+    <string name="lift_ctrl_permit">Cho phép làm gì</string>
+    <string name="prompt_calling_concierge">Gọi Concierge 01</string>
+    <string name="app_call">Gọi điện</string>
+    <string name="app_monitor">Màn hình</string>
+    <string name="app_camera">Máy ảnh</string>
+    <string name="app_quad_splitter">Bộ chia bốn</string>
+    <string name="app_phonebook">Liên lạc</string>
+    <string name="app_message">Tin nhắn</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">Mã QR</string>
+    <string name="app_security">Bảo vệ</string>
+    <string name="app_concierge">Máy quản lý</string>
+    <string name="app_lift_ctrl">Thang máy</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">Cài đặt</string>
+    <string name="app_home_screen">Màn hình chính</string>
+</resources>

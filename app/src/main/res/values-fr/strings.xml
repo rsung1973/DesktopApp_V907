@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bureau</string>
+    <string name="main_prompt_no_missed">Aucun appel manqué.</string>
+    <string name="main_prompt_missed">Appels manqués xxyy.</string>
+    <string name="main_prompt_no_msg">Aucun MESSAGE non lu.</string>
+    <string name="main_prompt_msg">MSG non lu xxyy.</string>
+    <string name="main_prompt_no_sms">Aucun SMS non lu.</string>
+    <string name="main_prompt_sms">SMS non lu xxyy.</string>
+
+    <string name="main_quick_elev">Ascenseur</string>
+    <string name="main_quick_monitor">déverrouillage</string>
+    <string name="main_quick_out">Dehors</string>
+    <string name="main_quick_apps">Apps</string>
+    <string name="main_quick_mute">Normal</string>
+    <string name="main_quick_mute2">Muet</string>
+
+    <string name="main_security_off">Sécurité DÉSACTIVÉE</string>
+    <string name="main_security_out">Sécurité SORTIE</string>
+    <string name="main_security_home">Sécurité ACCUEIL</string>
+    <string name="main_security_sleep">Sécurité SOMMEIL</string>
+
+    <string name="main_weather_temp">"TEMP: "</string>
+    <string name="main_weather_humidity">"RH: "</string>
+    <string name="main_weather_quality">"Qualité: "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+
+    <string name="main_apps_select_ok">"OK"</string>
+    <string name="main_apps_select_default">"Dégager"</string>
+    <string name="main_apps_select_prompt">"Veuillez sélectionner un apk."</string>
+
+    <string name="defence_btn_home">Domicile</string>
+    <string name="defence_btn_out">Dehors</string>
+    <string name="defence_btn_sleep">Sommeil</string>
+    <string name="defence_btn_withdraw">DÉSACTIVÉ</string>
+    <!-- dialog text -->
+    <string name="dialog_title_user">utilisateur</string>
+    <string name="dialog_title_system">Système</string>
+    <string name="dialog_title_search">Boîte de dialogue de recherche</string>
+    <string name="dialog_title_delete">Supprimer la boîte de dialogue</string>
+    <string name="dialog_msg_delete">Voulez-vous vraiment supprimer ce contact?  Cette action ne peut pas être annulée.</string>
+    <string name="dialog_msg_delete_multi">Voulez-vous vraiment supprimer ces contacts?  Cette action ne peut pas être annulée.</string>
+    <string name="dialog_title_save">Boîte de dialogue Enregistrer</string>
+    <string name="dialog_msg_save">Voulez-vous vraiment enregistrer ce contact?</string>
+    <string name="dialog_title_first_set">Boîte de dialogue Enregistrer</string>
+    <string name="dialog_msg_first_set">Êtes-vous sûr de soumettre ces configurations?</string>
+    <string name="dialog_search">Recherche</string>
+    <string name="dialog_confirm">Confirmer</string>
+    <string name="dialog_cancel">Annuler</string>
+    <string name="dialog_dtmf_input">"Dialogue d'entrée DTMF"</string>
+    <string name="dialog_ok">"D'ACCORD"</string>
+    <string name="dialog_alert">Alerte</string>
+    <string name="login_passwd_prompt">Mot de passe</string>
+    <string name="prompt_invalid_call_info">"Aucune information d'appel valide"</string>
+
+<!--    <string name="str_week_sun">Soleil.</string>-->
+<!--    <string name="str_week_mon">Lun.</string>-->
+<!--    <string name="str_week_tues">You are.</string>-->
+<!--    <string name="str_week_wed">Mer.</string>-->
+<!--    <string name="str_week_thur">Jeu.</string>-->
+<!--    <string name="str_week_fri">Ven.</string>-->
+<!--    <string name="str_week_sat">Sam.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">UN M</string>
+    <string name="str_pm">PM</string>
+    <string name="phonebook_title">Annuaire</string>
+    <string name="lift_ctrl_permit">Permis</string>
+    <string name="prompt_calling_concierge">Appeler le concierge 01</string>
+    <string name="app_call">Appel</string>
+    <string name="app_monitor">Moniteur</string>
+    <string name="app_camera">Appareil photo</string>
+    <string name="app_quad_splitter">Quad Splitter</string>
+    <string name="app_phonebook">Annuaire</string>
+    <string name="app_message">Message</string>
+    <string name="app_dnd">MDN</string>
+    <string name="app_qr_code">QR Code</string>
+    <string name="app_security">Sécurité</string>
+    <string name="app_concierge">La conciergerie</string>
+    <string name="app_lift_ctrl">"Asansör"</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">Réglages</string>
+    <string name="app_home_screen">"Écran d'accueil"</string>
+</resources>

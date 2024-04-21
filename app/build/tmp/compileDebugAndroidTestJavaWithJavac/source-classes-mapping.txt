@@ -1,0 +1,4 @@
+com/dnake/desktop/test/BuildConfig.java
+ com.dnake.desktop.test.BuildConfig
+com/dnake/desktop/ExampleInstrumentedTest.java
+ com.dnake.desktop.ExampleInstrumentedTest

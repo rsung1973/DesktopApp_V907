@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">desktop</string>
+    <string name="main_prompt_no_missed">"Brak nieodebranych połączeń."</string>
+    <string name="main_prompt_missed">"Połączenia nieodebrane xxyy."</string>
+    <string name="main_prompt_no_msg">"Brak nowych wiadomości.</string>
+    <string name="main_prompt_msg">"Nieprzeczytane wiadomości xxyy."</string>
+    <string name="main_prompt_no_sms">"Brak nieprzeczytanych SMS."</string>
+    <string name="main_prompt_sms">"Nieprzeczytane SMS xxyy."</string>
+
+    <string name="main_quick_elev">"Winda"</string>
+    <string name="main_quick_monitor">"Otwórz"</string>
+    <string name="main_quick_out">"Wyjście"</string>
+    <string name="main_quick_apps">"Aplikacje"</string>
+
+    <string name="main_security_off">"Alarm Rozbrojenie"</string>
+    <string name="main_security_out">"Alarm POZA DOMEM"</string>
+    <string name="main_security_home">"Alarm W DOMU"</string>
+    <string name="main_security_sleep">"Alarm SPANIE"</string>
+
+    <string name="main_weather_temp">"TEMP: "</string>
+    <string name="main_weather_humidity">Wilgotność:</string>
+    <string name="main_weather_quality">"Jakość: "</string>
+    <string name="main_weather_pm25">"Pyły (PM2.5): "</string>
+
+    <string name="main_quick_mute">Normalna</string>
+    <string name="main_quick_mute2">Wycisz</string>
+    <string name="main_apps_select_ok">"OK"</string>
+    <string name="main_apps_select_default">"Wyczyść"</string>
+    <string name="main_apps_select_prompt">„Proszę wybrać apk”.</string>
+    <string name="defence_btn_home">Dom</string>
+    <string name="defence_btn_out">Na zewnątrz</string>
+    <string name="defence_btn_sleep">Spanie</string>
+    <string name="defence_btn_withdraw">WYŁĄCZONY</string>
+    <!-- dialog text -->
+    <string name="dialog_title_user">Użytkownik</string>
+    <string name="dialog_title_system">System</string>
+    <string name="dialog_title_search">Okno wyszukiwania</string>
+    <string name="dialog_title_delete">Usuń okno dialogowe</string>
+    <string name="dialog_msg_delete">Czy na pewno chcesz usunąć ten kontakt?  Tej czynności nie można cofnąć.</string>
+    <string name="dialog_msg_delete_multi">Czy na pewno chcesz usunąć te kontakty?  Tej czynności nie można cofnąć.</string>
+    <string name="dialog_title_save">Zapisz okno dialogowe</string>
+    <string name="dialog_msg_save">Czy na pewno chcesz zapisać ten kontakt?</string>
+    <string name="dialog_title_first_set">Zapisz okno dialogowe</string>
+    <string name="dialog_msg_first_set">Czy na pewno chcesz przesłać te konfiguracje?</string>
+    <string name="dialog_search">Szukaj</string>
+    <string name="dialog_confirm">Potwierdź</string>
+    <string name="dialog_cancel">Anuluj</string>
+    <string name="dialog_dtmf_input">"Okno wprowadzania DTMF"</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_alert">Alarm</string>
+    <string name="login_passwd_prompt">Hasło</string>
+    <string name="prompt_invalid_call_info">Brak prawidłowych informacji o połączeniu</string>
+
+    <!--    <string name="str_week_sun">Słońce.</string>-->
+    <!--    <string name="str_week_mon">pon.</string>-->
+    <!--    <string name="str_week_tues">wt.</string>-->
+    <!--    <string name="str_week_wed">Poślubić.</string>-->
+    <!--    <string name="str_week_thur">Czw.</string>-->
+    <!--    <string name="str_week_fri">pt.</string>-->
+    <!--    <string name="str_week_sat">sob.</string>-->
+    <string name="str_week_sun">Nie</string>
+    <string name="str_week_mon">Pon</string>
+    <string name="str_week_tues">Wto</string>
+    <string name="str_week_wed">Śro</string>
+    <string name="str_week_thur">Czw</string>
+    <string name="str_week_fri">Pią</string>
+    <string name="str_week_sat">Sob</string>
+
+    <string name="str_am">AM</string>
+    <string name="str_pm">PM</string>
+    <string name="phonebook_title">Książka tel.</string>
+    <string name="lift_ctrl_permit">Zezwól</string>
+    <string name="prompt_calling_concierge">Dzownię do portiera 01</string>
+    <string name="app_call">Połączenie</string>
+    <string name="app_monitor">Monitor</string>
+    <string name="app_camera">Kamera</string>
+    <string name="app_quad_splitter">Multiekran</string>
+    <string name="app_phonebook">Książka tel.</string>
+    <string name="app_message">Wiadomość</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">Kod QR</string>
+    <string name="app_security">Bezpieczeństwo</string>
+    <string name="app_concierge">Portier</string>
+    <string name="app_lift_ctrl">Winda</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">Ustawienia</string>
+    <string name="app_home_screen">Ekran główny</string>
+
+    <string name="get_qr_err">Nie udało się pobrać kodu QR!</string>
+</resources>

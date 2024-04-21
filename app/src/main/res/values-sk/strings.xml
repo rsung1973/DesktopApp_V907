@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">desktop</string>
+    <string name="main_prompt_no_missed">Žiadne zmeškané hovory.</string>
+    <string name="main_prompt_missed">Zmeškané hovory xxyy.</string>
+    <string name="main_prompt_no_msg">Žiadne neprečítané MSG.</string>
+    <string name="main_prompt_msg">Neprečítané MSG xxyy.</string>
+    <string name="main_prompt_no_sms">Žiadne neprečítané SMS.</string>
+    <string name="main_prompt_sms">Neprečítané SMS xxyy.</string>
+
+    <string name="main_quick_elev">Výťah</string>
+    <string name="main_quick_monitor">Odomknúť</string>
+    <string name="main_quick_out">Von</string>
+    <string name="main_quick_apps">Aplikácie</string>
+    <string name="main_quick_mute">Normálny</string>
+    <string name="main_quick_mute2">Stlmiť</string>
+
+    <string name="main_security_off">Vypnutie zabezpečenia</string>
+    <string name="main_security_out">Zabezpečenie OUT</string>
+    <string name="main_security_home">Bezpečnostný DOMOV</string>
+    <string name="main_security_sleep">Zabezpečenie spánku</string>
+
+    <string name="main_weather_temp">"TEMP: "</string>
+    <string name="main_weather_humidity">"RH: "</string>
+    <string name="main_weather_quality">"Kvalita: "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+
+    <string name="main_apps_select_ok">"OK"</string>
+    <string name="main_apps_select_default">"Jasný"</string>
+    <string name="main_apps_select_prompt">"Prosím, vyberte apk."</string>
+
+    <string name="defence_btn_home">Domov</string>
+    <string name="defence_btn_out">Von</string>
+    <string name="defence_btn_sleep">Spánok</string>
+    <string name="defence_btn_withdraw">VYPNUTÉ</string>
+    <!-- dialog text -->
+    <string name="dialog_title_user">Užívateľ</string>
+    <string name="dialog_title_system">systém</string>
+    <string name="dialog_title_search">Dialógové okno vyhľadávania</string>
+    <string name="dialog_title_delete">Odstrániť dialógové okno</string>
+    <string name="dialog_msg_delete">Naozaj chcete odstrániť tento kontakt?  Túto akciu nie je možné vrátiť späť.</string>
+    <string name="dialog_msg_delete_multi">Naozaj chcete odstrániť tieto kontakty?  Túto akciu nie je možné vrátiť späť.</string>
+    <string name="dialog_title_save">Dialógové okno Uložiť</string>
+    <string name="dialog_msg_save">Naozaj chcete tento kontakt uložiť?</string>
+    <string name="dialog_title_first_set">Dialógové okno Uložiť</string>
+    <string name="dialog_msg_first_set">Naozaj odošlete tieto konfigurácie?</string>
+    <string name="dialog_search">Vyhľadávanie</string>
+    <string name="dialog_confirm">Potvrďte</string>
+    <string name="dialog_cancel">Zrušiť</string>
+    <string name="dialog_dtmf_input">"Dialógové okno vstupu DTMF"</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_alert">Upozornenie</string>
+    <string name="login_passwd_prompt">heslo</string>
+    <string name="prompt_invalid_call_info">Žiadne platné informácie o hovore</string>
+
+<!--    <string name="str_week_sun">Slnko.</string>-->
+<!--    <string name="str_week_mon">Po.</string>-->
+<!--    <string name="str_week_tues">Ut.</string>-->
+<!--    <string name="str_week_wed">St.</string>-->
+<!--    <string name="str_week_thur">Št.</string>-->
+<!--    <string name="str_week_fri">Pia.</string>-->
+<!--    <string name="str_week_sat">So.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">AM</string>
+    <string name="str_pm">POPOLUDNIE</string>
+    <string name="phonebook_title">Kontakty</string>
+    <string name="lift_ctrl_permit">Povolenie</string>
+    <string name="prompt_calling_concierge">Volám Concierge 01</string>
+    <string name="app_call">Zavolajte</string>
+    <string name="app_monitor">Monitor</string>
+    <string name="app_camera">fotoaparát</string>
+    <string name="app_quad_splitter">Quad Splitter</string>
+    <string name="app_phonebook">Kontakty</string>
+    <string name="app_message">Správa</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">QR kód</string>
+    <string name="app_security">Bezpečnosť</string>
+    <string name="app_concierge">Vrátnik</string>
+    <string name="app_lift_ctrl">Výťah</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">nastavenie</string>
+    <string name="app_home_screen">Domovská obrazovka</string>
+</resources>

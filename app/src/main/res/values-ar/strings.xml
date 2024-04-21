@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">سطح المكتب</string>
+    <string name="main_prompt_no_missed">لا توجد مكالمات فائتة.</string>
+    <string name="main_prompt_missed">xxyy المكالمات الفائتة.</string>
+    <string name="main_prompt_no_msg">No Unread MSG</string>
+    <string name="main_prompt_msg">xxyy MSG غير المقروءة.</string>
+    <string name="main_prompt_no_sms">No Unread SMS</string>
+    <string name="main_prompt_sms">SMS غير مقروء xxyy.</string>
+
+    <string name="main_quick_elev">مصعد</string>
+    <string name="main_quick_monitor">الغاء القفل</string>
+    <string name="main_quick_out">خارج</string>
+    <string name="main_quick_apps">تطبيقات</string>
+    <string name="main_quick_mute">عادي</string>
+    <string name="main_quick_mute2">أخرس</string>
+
+    <string name="main_security_off">الأمن مغلق</string>
+    <string name="main_security_out">الأمن خارج</string>
+    <string name="main_security_home">منزل الأمن</string>
+    <string name="main_security_sleep">النوم الآمن</string>
+
+    <string name="main_weather_temp">":مؤقت"</string>
+    <string name="main_weather_humidity">"RH: "</string>
+    <string name="main_weather_quality">"جودة: "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+
+    <string name="main_apps_select_ok">"حسنا"</string>
+    <string name="main_apps_select_default">"واضح"</string>
+    <string name="main_apps_select_prompt">"الرجاء تحديد ملف apk."</string>
+
+    <string name="defence_btn_home">مسكن</string>
+    <string name="defence_btn_out">خارج</string>
+    <string name="defence_btn_sleep">نايم</string>
+    <string name="defence_btn_withdraw">إيقاف</string>
+    <!-- dialog text -->
+    <string name="dialog_title_user">مستخدم</string>
+    <string name="dialog_title_system">نظام</string>
+    <string name="dialog_title_search">حوار البحث</string>
+    <string name="dialog_title_delete">حذف مربع الحوار</string>
+    <string name="dialog_msg_delete">هل أنت متأكد أنك تريد حذف جهة الاتصال هذه؟  لا يمكن التراجع عن هذا الإجراء.</string>
+    <string name="dialog_msg_delete_multi">هل أنت متأكد أنك تريد حذف جهات الاتصال هذه؟  لا يمكن التراجع عن هذا الإجراء.</string>
+    <string name="dialog_title_save">حفظ الحوار</string>
+    <string name="dialog_msg_save">هل أنت متأكد أنك تريد حفظ جهة الاتصال هذه؟</string>
+    <string name="dialog_title_first_set">حفظ الحوار</string>
+    <string name="dialog_msg_first_set">هل أنت متأكد من إرسال هذه التكوينات؟</string>
+    <string name="dialog_search">بحث</string>
+    <string name="dialog_confirm">يتأكد</string>
+    <string name="dialog_cancel">يلغي</string>
+    <string name="dialog_dtmf_input">"حوار إدخال DTMF"</string>
+    <string name="dialog_ok">نعم</string>
+    <string name="dialog_alert">يُحذًِر</string>
+    <string name="login_passwd_prompt">كلمه السر</string>
+    <string name="prompt_invalid_call_info">لا توجد معلومات اتصال صالحة</string>
+
+<!--    <string name="str_week_sun">شمس.</string>-->
+<!--    <string name="str_week_mon">الاثنين.</string>-->
+<!--    <string name="str_week_tues">الثلاثاء.</string>-->
+<!--    <string name="str_week_wed">تزوج.</string>-->
+<!--    <string name="str_week_thur">ثور.</string>-->
+<!--    <string name="str_week_fri">الجمعة.</string>-->
+<!--    <string name="str_week_sat">قعد.</string>-->
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">صباحا</string>
+    <string name="str_pm">مساءً</string>
+    <string name="phonebook_title">سجل الهاتف</string>
+    <string name="lift_ctrl_permit">يسمح</string>
+    <string name="prompt_calling_concierge">استدعاء الكونسيرج 01</string>
+    <string name="app_call">يتصل</string>
+    <string name="app_monitor">شاشة</string>
+    <string name="app_camera">الة تصوير</string>
+    <string name="app_quad_splitter">الفاصل الرباعي</string>
+    <string name="app_phonebook">سجل الهاتف</string>
+    <string name="app_message">رسالة</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">QR Code</string>
+    <string name="app_security">حماية</string>
+    <string name="app_concierge">آلة الإدارة</string>
+    <string name="app_lift_ctrl">التحكم في الرفع</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">إعدادات</string>
+    <string name="app_home_screen">الشاشة الرئيسية</string>
+</resources>

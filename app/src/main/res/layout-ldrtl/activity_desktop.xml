@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DesktopActivity">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/layout_drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="right"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/layout_status_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/iv_com_status"
+                    android:layout_width="68dp"
+                    android:layout_height="68dp"
+                    android:layout_margin="4dp"
+                    android:padding="16dp"
+                    android:src="@mipmap/ic_pc_off"
+                    tools:ignore="MissingConstraints" />
+
+                <ImageView
+                    android:id="@+id/iv_main_sip_status"
+                    android:layout_width="68dp"
+                    android:layout_height="68dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginRight="4dp"
+                    android:layout_marginBottom="4dp"
+                    android:padding="16dp"
+                    android:src="@mipmap/ic_sip_on"
+                    android:visibility="gone" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/tv_date_top"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="16dp"
+                    android:gravity="end"
+                    android:padding="8dp"
+                    android:textColor="@color/white"
+                    android:textSize="22sp"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:id="@+id/layout_top_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginEnd="20dp"
+                    android:gravity="end|center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="20dp"
+                    android:paddingTop="4dp"
+                    android:paddingRight="20dp"
+                    android:paddingBottom="4dp">
+
+                    <ImageView
+                        android:id="@+id/btn_more"
+                        android:layout_width="64dp"
+                        android:layout_height="64dp"
+                        android:layout_marginEnd="10dp"
+                        android:padding="8dp"
+                        android:src="@mipmap/ic_left" />
+
+
+                    <ImageView
+                        android:id="@+id/btn_dnd"
+                        android:layout_width="64dp"
+                        android:layout_height="64dp"
+                        android:layout_marginEnd="10dp"
+                        android:src="@mipmap/ic_apps_dnd_off"
+                        android:visibility="gone" />
+
+                    <ImageView
+                        android:id="@+id/btn_security"
+                        android:layout_width="64dp"
+                        android:layout_height="64dp"
+                        android:layout_marginEnd="10dp"
+                        android:src="@mipmap/ic_top_security_off"
+                        android:visibility="gone" />
+
+                    <ImageView
+                        android:id="@+id/btn_switch"
+                        android:layout_width="64dp"
+                        android:layout_height="64dp"
+                        android:src="@mipmap/ic_apps_boot" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <com.dnake.widget.MyViewPager
+                android:id="@+id/vp_main"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:overScrollMode="never" />
+
+            <LinearLayout
+                android:id="@+id/layout_dots"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="16dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <net.lucode.hackware.magicindicator.MagicIndicator
+                    android:id="@+id/dots_indicator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent" />
+
+                <ImageView
+                    android:id="@+id/iv_mini_phonebook"
+                    android:layout_width="16dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:src="@mipmap/ic_phonebook_mini_off" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_left_phonebook"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="#80000000"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:tag="LEFT">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:text="@string/phonebook_title"
+                android:textColor="@color/white"
+                android:textSize="32sp" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_phonebook"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:overScrollMode="never" />
+        </LinearLayout>
+    </androidx.drawerlayout.widget.DrawerLayout>
+</LinearLayout>

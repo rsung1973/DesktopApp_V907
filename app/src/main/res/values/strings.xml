@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">desktop</string>
+    <string name="main_prompt_no_missed">No Missed Calls.</string>
+    <string name="main_prompt_missed">Missed Calls xxyy.</string>
+    <string name="main_prompt_no_msg">No Unread MSG.</string>
+    <string name="main_prompt_msg">Unread MSG xxyy.</string>
+    <string name="main_prompt_no_sms">No Unread SMS.</string>
+    <string name="main_prompt_sms">Unread SMS xxyy.</string>
+
+    <string name="main_quick_elev">Elevator</string>
+    <string name="main_quick_monitor">Unlock</string>
+    <string name="main_quick_out">Out</string>
+    <string name="main_quick_apps">Apps</string>
+    <string name="main_quick_mute">Normal</string>
+    <string name="main_quick_mute2">Mute</string>
+
+    <string name="main_security_off">Security OFF</string>
+    <string name="main_security_out">Security OUT</string>
+    <string name="main_security_home">Security HOME</string>
+    <string name="main_security_sleep">Security SLEEP</string>
+
+    <string name="main_weather_temp">"TEMP: "</string>
+    <string name="main_weather_humidity">"RH: "</string>
+    <string name="main_weather_quality">"Quality: "</string>
+    <string name="main_weather_pm25">"PM2.5: "</string>
+
+    <string name="main_apps_select_ok">"OK"</string>
+    <string name="main_apps_select_default">"Clear"</string>
+    <string name="main_apps_select_prompt">"Please select a apk."</string>
+
+    <string name="defence_btn_home">Home</string>
+    <string name="defence_btn_out">Out</string>
+    <string name="defence_btn_sleep">Sleep</string>
+    <string name="defence_btn_withdraw">OFF</string>
+
+    <!-- dialog text -->
+    <string name="dialog_title_user">User</string>
+    <string name="dialog_title_system">System</string>
+    <string name="dialog_title_search">Search Dialog</string>
+    <string name="dialog_title_delete">Delete Dialog</string>
+    <string name="dialog_msg_delete">Are you sure you want to delete this contact? This action cannot be undone.</string>
+    <string name="dialog_msg_delete_multi">Are you sure you want to delete these contacts? This action cannot be undone.</string>
+    <string name="dialog_title_save">Save Dialog</string>
+    <string name="dialog_msg_save">Are you sure you want to save this contact?</string>
+    <string name="dialog_title_first_set">Save Dialog</string>
+    <string name="dialog_msg_first_set">Are you sure to submit these configurations?</string>
+    <string name="dialog_search">Search</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_dtmf_input">"DTMF input Dialog"</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_alert">Alert</string>
+    <string name="login_passwd_prompt">Password</string>
+
+    <string name="prompt_invalid_call_info">No valid call info</string>
+    <string name="str_week_sun">Sun.</string>
+    <string name="str_week_mon">Mon.</string>
+    <string name="str_week_tues">Tues.</string>
+    <string name="str_week_wed">Wed.</string>
+    <string name="str_week_thur">Thur.</string>
+    <string name="str_week_fri">Fri.</string>
+    <string name="str_week_sat">Sat.</string>
+
+    <string name="str_am">AM</string>
+    <string name="str_pm">PM</string>
+
+    <string name="phonebook_title">Phonebook</string>
+
+    <string name="lift_ctrl_permit">Permit</string>
+
+    <string name="prompt_calling_concierge">Calling Concierge 01</string>
+
+    <string name="sos_title">SOS</string>
+    <string name="sos_prompt">Do you want to send SOS?</string>
+
+    <string name="app_call">Call</string>
+    <string name="app_monitor">Doors</string>
+    <string name="app_camera">Camera</string>
+    <string name="app_quad_splitter">Quad Splitter</string>
+    <string name="app_phonebook">Phonebook</string>
+    <string name="app_message">Message</string>
+    <string name="app_dnd">DND</string>
+    <string name="app_qr_code">QR Code</string>
+    <string name="app_security">Security</string>
+    <string name="app_concierge">Concierge</string>
+    <string name="app_lift_ctrl">Elevator</string>
+    <string name="app_sos">SOS</string>
+    <string name="app_setting">Settings</string>
+    <string name="app_home_screen">Home Screen</string>
+
+    <string name="get_qr_err">Failed to get the QR code !</string>
+</resources>

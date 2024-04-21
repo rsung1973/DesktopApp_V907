@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center">
+
+    <LinearLayout
+        android:id="@+id/btn_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:src="@mipmap/ic_edit_add" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="110dp"
+            android:layout_height="110dp">
+
+            <ImageView
+                android:id="@+id/iv_pic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                android:layout_gravity="center" />
+
+            <ImageView
+                android:id="@+id/iv_pic_third"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:visibility="gone"
+                android:layout_gravity="center" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/btn_del"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginLeft="55dp"
+        android:background="@mipmap/ic_del"
+        android:gravity="center"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_num"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginLeft="55dp"
+        android:background="@drawable/shape_num_superscript"
+        android:gravity="center"
+        android:text="99+"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:visibility="gone" />
+</FrameLayout>

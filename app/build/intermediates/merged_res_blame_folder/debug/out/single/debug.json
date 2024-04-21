@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_add.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_sos_confirm.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\dialog_sos_confirm.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_home_screen.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_home_screen.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_qr_code.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\dialog_qr_code.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_home_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_home_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_top_security_sleep.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_top_security_sleep.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_phonebook_edit.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_phonebook_edit.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_volume.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_volume.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_elev_up_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\elev_up_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_desktop.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\activity_desktop.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_top_menu_bg.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\shape_top_menu_bg.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w3.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w3.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_mic.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_mic.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_phonebook_search_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_phonebook_search_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_message.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_message.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_top_security_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_top_security_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w0.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w0.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_num_superscript.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\shape_num_superscript.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_close.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_close.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_layout_24_white.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\shape_layout_24_white.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sub_screen.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\fragment_sub_screen.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_edit_cancel.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edit_cancel.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w9.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w9.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w10.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w10.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_back.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_back.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_monitor.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_monitor.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_video.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_video.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_filter.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_filter.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_dial_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_dial_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_edit_ok.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edit_ok.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_home.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_home.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_quad_splitter.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_quad_splitter.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w4.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w4.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_concierge.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_concierge.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w7.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w7.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_dnd_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_dnd_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_phonebook_mini_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_phonebook_mini_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_del.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_del.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_tuya.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_tuya.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_top_security_home.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_top_security_home.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_pc_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pc_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_bg_default.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\bg_default.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_sos_red.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_sos_red.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_close.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_close.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_missed_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_missed_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_phonebook_rv.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\item_phonebook_rv.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w6.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w6.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_apps_select.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\dialog_apps_select.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-ldrtl-xhdpi_ic_left.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-ldrtl-xhdpi\\ic_left.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_del.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_del.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_phonebook.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_phonebook.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_photo.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_photo.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_elev_down_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\elev_down_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_incoming_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_incoming_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_sleep_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_sleep_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_log_del.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_log_del.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w5.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w5.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_input_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_input_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_door.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_door.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_outgoing_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_outgoing_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_right.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_right.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_1.jpg.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_1.jpg"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_layout_24_white_no_stroke.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\shape_layout_24_white_no_stroke.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_apps_rv.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\item_apps_rv.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w11.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w11.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_sleep.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_sleep.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_phonebook_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_phonebook_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_switch.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_switch.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_apps_text.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\apps_text.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout-ldrtl_activity_desktop.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout-ldrtl\\activity_desktop.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_phonebook_del.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_phonebook_del.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_security_on.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_security_on.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_calling.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_calling.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_one_key_security.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\dialog_one_key_security.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_scene.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_scene.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w8.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w8.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_main_menu_app.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\item_main_menu_app.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_edit.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_edit.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_search.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_search.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_hangup.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_hangup.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_pc.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pc.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-ldrtl-xhdpi_ic_right.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-ldrtl-xhdpi\\ic_right.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_ok.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_ok.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_dtmf_keyboard.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_dtmf_keyboard.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w2.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w2.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_lift_ctrl_confirm.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\dialog_lift_ctrl_confirm.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_sos.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_sos.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_boot.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_boot.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_out.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_out.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_phonebook_mini.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_phonebook_mini.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_lift_ctrl.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_lift_ctrl.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_search.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_dnd_on.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_dnd_on.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_log_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_log_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_arrow_down.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_down.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_out_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_out_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_qr_code.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_qr_code.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_main_weather_w1.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\main_weather_w1.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_elev_down_a.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\elev_down_a.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_camera.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_camera.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_btn_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_btn_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_concierge_loading.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\dialog_concierge_loading.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_sun.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sun.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_apps.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\apps.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_settings.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_settings.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_volume_pot.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_volume_pot.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_edit_add.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edit_add.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_elev_up_a.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\elev_up_a.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_system_login.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\layout\\dialog_system_login.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_elev_sub_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\drawable\\elev_sub_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_sip_on.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sip_on.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_left.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_left.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_zone.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_zone.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_setup.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_setup.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_top_security_out.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_top_security_out.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_off_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_off_off.webp"
+    }
+]

@@ -1,0 +1,4 @@
+#Sat Apr 20 00:32:13 CST 2024
+base.0=C\:\\Project\\Android\\Awtek\\V907\\DesktopApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
